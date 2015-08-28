@@ -1,0 +1,8 @@
+*.cmi
+*.cmo
+*.cmx
+*.o
+_build
+*.sync-conflict*
+.DS_Store
+.localized
